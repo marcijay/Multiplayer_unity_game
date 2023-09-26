@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Offline_Scene.unity
+    guid: d94200c66ee0bd1448615b04a13b6f4e
+  - enabled: 1
+    path: Assets/Scenes/Online_LobbyScene.unity
+    guid: 0eeeac12dd6fc954c9dd98a085d7299d
+  - enabled: 1
+    path: Assets/Scenes/Online_Map_1.unity
+    guid: 2758c47cee2220f43bb5cb977e88a0d4
+  - enabled: 1
+    path: Assets/Scenes/Online_Arena.unity
+    guid: 092b36f2a2786ee4ab41c2fd730827a5
+  - enabled: 1
+    path: Assets/Scenes/Online_Kill_All.unity
+    guid: 5ffc7df585f565243a8e3d36866d84a2
+  - enabled: 0
+    path: Assets/Scenes/Online_Purge_Map.unity
+    guid: a176136e04fe1c14ab54b9eda715f35a
+  - enabled: 0
+    path: Assets/Scenes/PoC/Connection_Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/PoC/Game_Scene.unity
+    guid: 14e2c55da6655704a84c65fa27bb0e04
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 7cecbfedb6ada054fa7d12a04ea2ecf1, type: 2}

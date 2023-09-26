@@ -1,0 +1,17 @@
+﻿{
+  "hostConfig": {
+    "backendOutsideUrl": "http://zpi-gitlab.pl:38080",
+    "remoteBackendEnabled": true
+  },
+  "awsEndpoint": "http://zpi-gitlab.pl:34566",
+  "awsRegion": "eu-west-1",
+  "awsAccessKey": "ACCESS-KEY",
+  "awsSecretKey": "SECRET-KEY",
+  "awsAccountId": "000000000000",
+  "sqsPollIntervalMilli": 500,
+  "sqsConfig": {
+    "influenceSqsPrefix": "game-influence",
+    "liveFeedSqsName": "game-live-feed.fifo",
+    "statisticsSqsName": "game-statistics.fifo"
+  }
+}

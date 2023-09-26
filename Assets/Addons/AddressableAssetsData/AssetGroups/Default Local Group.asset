@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b11b97f48c6be5b4891145ffc6f56e5a
+  m_SerializeEntries:
+  - m_GUID: 6e7ecacfba9a1364b92b23018a5e3e5a
+    m_Address: Pawn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3f77b14456059a42a213ee5bfb369f2
+    m_Address: Enemy_drone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d30c369f96739af44a2414f8d89b3e05
+    m_Address: Projectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d55716fb90ce1694199bb3873c39a7a9
+    m_Address: PlayerCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e9f67bd03b54914c89ea465a19ddef9
+    m_Address: AmmoBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05f01f77fe641774d94d9e5e6a86fbc4
+    m_Address: HealthPack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fabc0a1cf4d5b142adc4fa9256c072b
+    m_Address: Armor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4932e5be34913124db69df1dc6506b75
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 346321892783ec841b26308043fd9da4
+    m_Address: Rusher
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1ed1a13f4134ea7af4b6563c29610b8
+    m_Address: Assets/Config/game-local.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 28c9d3273544fd8408b710855ae87378, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0892f17527fad0441ab05078dcab8063, type: 2}
+    - {fileID: 11400000, guid: ddf06586bb1081f4b805e221e146ef00, type: 2}
