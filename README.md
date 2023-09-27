@@ -5,7 +5,9 @@ Game contains two distinct maps, two gamemodes (elimination & survival), login s
 **Game will not function properly without backend support - connection config available in Assets/Config/game-local.json file.   
 The default URL may not be active**
 
-![multi_menu](https://github.com/marcijay/Multiplayer_unity_game/assets/62373202/38822085-c62f-49af-97e4-eeeaae3c40ef)
+
+![multiplayer_lobby](https://github.com/marcijay/Multiplayer_unity_game/assets/62373202/adcaf0db-2ac1-4b24-a8ee-7c99bb820e9b)
 
 
-![multi_1](https://github.com/marcijay/Multiplayer_unity_game/assets/62373202/905e14e5-443f-4cdb-bed1-c462a324af2e)
+![Multiplayer_game](https://github.com/marcijay/Multiplayer_unity_game/assets/62373202/bcaa3b7e-96b2-4b45-ac9f-0a2b6a105f25)
+
